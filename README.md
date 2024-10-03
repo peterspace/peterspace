@@ -79,4 +79,18 @@ I’m a passionate **Software Developer** with a strong background in building f
 - Blockchain Development & Automation
 - Web & Mobile Development
 
+### 🌟 Projects
+
+Check out some of my recent work:
+
+- [**Ido**](https://www.connect.idometrics.com/) — Led the design and development of an enterprise-level social media platform leveraging microservices, blockchain, and AI.
+- [**Blendery**](https://bwing-h561.onrender.com/) — Built a secure decentralized exchange platform with an integrated Ethereum wallet for multi-chain cryptocurrency transactions.
+- [**Sandkeys**](https://crib-eplr.onrender.com/) — Built a hotel booking platform using MERN-stack.
+### 🌍 Connect with me
+
+- LinkedIn: [Peter Okeme](https://www.linkedin.com/in/peter-okeme-3526a3245/)
+- GitHub: [peter-okeme](https://github.com/peterspace)
+
+
 ###
+
